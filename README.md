@@ -28,4 +28,7 @@ Mongoose: Object Data Modeling (ODM) library for MongoDB.
 JWT (JSON Web Tokens): For secure user authentication.
 Bcrypt.js: For password hashing.
 Stripe API: For processing payments.
+rohit
+rahul
+ranjani
 
