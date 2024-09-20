@@ -22,7 +22,8 @@ This is an e-commerce web application built using the MERN stack (MongoDB, Expre
 - Express: Web framework for building RESTful APIs.
 - MongoDB: NoSQL database for storing products, orders, and users.
 - Mongoose: Object Data Modeling (ODM) library for MongoDB.
--  JWT (JSON Web Tokens): For secure user authentication.
 - Bcrypt.js: For password hashing.
-- Stripe API: For processing payments.
+
+
+
 
