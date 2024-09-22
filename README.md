@@ -26,14 +26,13 @@ This is an e-commerce web application built using the MERN stack (MongoDB, Expre
 
 
 
-
+### Home Page
 ![image](https://github.com/user-attachments/assets/9b908ebe-e7a9-4baf-b526-bc8abf57d1a4)
 
-
-![image](https://github.com/user-attachments/assets/3589fb97-c27e-4929-9f0e-34be8f80d2d0)
-
+### Register
 ![image](https://github.com/user-attachments/assets/cc1b5c3d-a3c5-4c98-951f-1ec67ecf4a86)
 
+### Login
 ![image](https://github.com/user-attachments/assets/ca787847-5fcb-44c3-87d1-827920e959b1)
 
 
